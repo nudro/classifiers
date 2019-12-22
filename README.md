@@ -1,2 +1,3 @@
 # classifiers
-classification models
+Basic ML classifier models, assortment of notebooks and tutorials
+
